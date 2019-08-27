@@ -6,7 +6,7 @@ public class Implementapersona {
 		// TODO Auto-generated method stub
 		
 		Persona policia = new Persona();
-		policia.id=01;
+		policia.id=02;
 		policia.nombre="Roberto Carlos";
 		policia.apellido="Gonzales";
 		policia.sexo=true;
