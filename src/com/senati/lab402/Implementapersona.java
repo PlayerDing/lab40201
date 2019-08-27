@@ -6,12 +6,13 @@ public class Implementapersona {
 		// TODO Auto-generated method stub
 		
 		Persona policia = new Persona();
-		policia.id=02;
+		policia.id=01;
 		policia.nombre="Roberto Carlos";
 		policia.apellido="Gonzales";
 		policia.sexo=true;
 		policia.ecivil= 'S';
 		
+		System.out.println(policia.toString());
 		System.out.println(policia.toString());
 
 	}
